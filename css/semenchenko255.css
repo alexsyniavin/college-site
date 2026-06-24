@@ -1,0 +1,64 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f2f2f2;
+}
+
+header {
+  background: #003366;
+  color: white;
+  padding: 10px;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero {
+  text-align: center;
+  padding: 20px;
+  background: white;
+}
+
+.hero img {
+  max-width: 100%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+ul li {
+  margin: 5px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: blue;
+}
+
+ol {
+  margin-left: 20px;
+}
+
+.container {
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+footer {
+display: inline-block;
+  background: #003366;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
