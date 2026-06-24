@@ -17,8 +17,3 @@ button{padding:10px;background:#0d47a1;color:#fff;border:none}
  nav ul{flex-direction:column;text-align:center}
  .cards{grid-template-columns:1fr}
 }
-.student-photo {
-    display: block;     
-    margin-left: auto;   
-    margin-right: 0;    
-}
