@@ -13,7 +13,24 @@
 </nav>
 </header>
 
-<divclass=
+<main>
+<div class="student-info">
+<h3> про себе </h3>
+Гусак Віталя 256 групи
+<p> </p>
+я студент коледжу ВСП Фаховий коледж НУК імені адмірала Макарова
+<img scralt >
+</div>
 
+<section class="">
+<h3> </h3>
+<u1>
+
+<div class="student-info">
+<h3> </h3>
+<p> </p>
+<img scralt >
+</div>
+</main>
 
 <footer><p>© 2026 CollegeSite</p></footer>
