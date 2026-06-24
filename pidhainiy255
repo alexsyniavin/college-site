@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Сторінка про студента</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #334155;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        main {
+            width: 80%;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+        }
+
+        div, section {
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #cccccc;
+        }
+
+        ul {
+            line-height: 1.5;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 15px 0;
+        }
+
+        footer {
+            background-color: #222222;
+            color: #aaaaaa;
+            text-align: center;
+            padding: 15px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Сайт студента</h1>
+        <p>Спеціальність: Комп'ютерна інженерія</p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Про мене</h2>
+            <p>Привіт! Мене звати Максим. Я навчаюся в коледжі на комп'ютерній інженерії. Мені подобається вивчати програмування, розбиратися з технікою, хостингами та дізнаватися щось нове про комп'ютери.</p>
+            <img src="https://ibb.co/3Y4hL7Z7" alt="Контроллер">
+        </section>
+
+        <div>
+            <h2>захоплення</h2>
+            <p>Крім навчання, я захоплююся різними відеоіграми. Найбільше мені подобаються такі ігри:</p>
+            
+            <ul>
+                <li>Ultrakill</li>
+                <li>No Man`s Sky</li>
+                <li>Hollow Knight</li>
+            </ul>
+            
+            <img src="https://ibb.co/N2dtfzHh" alt="No Man`s sky">
+        </div>
+
+        <section>
+            <h2>Навчання та плани</h2>
+            <p>Зараз я роблю лабораторні роботи з веб-розробки, вчуся працювати з HTML, CSS та Git. У майбутньому хочу створювати власні корисні сайти та проекти.</p>
+            <img src="https://ibb.co/zWhRdZsP" alt="Ноутбук для роботи">
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Автор сторінки: Максим &copy; 2026</p>
+    </footer>
+
+</body>
+</html>
